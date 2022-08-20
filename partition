@@ -1,1 +1,3 @@
 
+create database ineuron_partition
+use ineuron_partition
